@@ -1,0 +1,654 @@
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ scp server.py pi@192.168.1.11:/home/pi/udpServ
+pi@192.168.1.11's password:
+server.py                                                                                                                 100% 2318   866.9KB/s   00:00
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 844717102.956665 bps
+bitrate: 803950621.8892822 bps
+bitrate: 800988840.3002014 bps
+bitrate: 851370777.9848785 bps
+bitrate: 883317078.3360443 bps
+bitrate: 863532442.7026978 bps
+bitrate: 837109811.7764282 bps
+bitrate: 866091698.0493164 bps
+bitrate: 824584052.9512024 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 864575280.7637787 bps
+bitrate: 785088977.4069214 bps
+bitrate: 821895293.4315033 bps
+bitrate: 868915371.6101074 bps
+bitrate: 869086931.4074707 bps
+bitrate: 872830122.2806091 bps
+bitrate: 883997113.4338531 bps
+bitrate: 882143163.358017 bps
+bitrate: 853236596.5059814 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 883025285.100174 bps
+bitrate: 882672854.6382294 bps
+bitrate: 863674303.2035065 bps
+bitrate: 769946004.6874237 bps
+bitrate: 754509401.652832 bps
+bitrate: 784981424.182663 bps
+bitrate: 882387181.24823 bps
+bitrate: 855600947.2501831 bps
+bitrate: 855009855.7709656 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 847244846.1694336 bps
+bitrate: 837762973.2998657 bps
+bitrate: 852925705.5946655 bps
+bitrate: 823582210.3007812 bps
+bitrate: 825043978.3818512 bps
+bitrate: 836811398.0590668 bps
+bitrate: 836498790.4976807 bps
+bitrate: 857627338.1840057 bps
+bitrate: 875936622.77948 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 870686718.6193542 bps
+bitrate: 874918814.8447723 bps
+bitrate: 871895200.5888062 bps
+bitrate: 870869232.7711487 bps
+bitrate: 872882485.1262817 bps
+bitrate: 874269084.9980621 bps
+bitrate: 876878203.4307861 bps
+bitrate: 861703082.8551178 bps
+bitrate: 880931850.8429718 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /5
+-bash: /5: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 866105945.5596313 bps
+bitrate: 861778213.2420044 bps
+bitrate: 880928700.4069519 bps
+bitrate: 880539226.0622864 bps
+bitrate: 879499005.5674896 bps
+bitrate: 865160621.6299438 bps
+bitrate: 867008129.0660706 bps
+bitrate: 874470509.4303589 bps
+bitrate: 867689555.1166992 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 843860069.4715576 bps
+bitrate: 860532757.5243988 bps
+bitrate: 872465775.951004 bps
+bitrate: 868491877.7700806 bps
+bitrate: 865649889.2999268 bps
+bitrate: 851875486.3425751 bps
+bitrate: 865631934.5541229 bps
+bitrate: 861599865.0491638 bps
+bitrate: 878305899.8331299 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 866897228.1298828 bps
+bitrate: 861484478.4665222 bps
+bitrate: 860464205.7692871 bps
+bitrate: 866527084.8731232 bps
+bitrate: 887503640.5561066 bps
+bitrate: 887626335.8537292 bps
+bitrate: 882497467.4728088 bps
+bitrate: 880670170.9988708 bps
+bitrate: 881668547.5843048 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 876184948.5680237 bps
+bitrate: 888737481.0028381 bps
+bitrate: 855617878.2623291 bps
+bitrate: 811748756.6104431 bps
+bitrate: 867499744.7845459 bps
+bitrate: 879171011.6715088 bps
+bitrate: 889936372.34729 bps
+bitrate: 893106958.9196777 bps
+bitrate: 892648014.7017517 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 866711752.4511566 bps
+bitrate: 801233011.4780731 bps
+bitrate: 838357452.1241455 bps
+bitrate: 855533434.5418854 bps
+bitrate: 837721430.1589966 bps
+bitrate: 824723652.9585571 bps
+bitrate: 834064511.609436 bps
+bitrate: 787193127.8139038 bps
+bitrate: 807276688.8519287 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 843208119.6074524 bps
+bitrate: 846708531.5511475 bps
+bitrate: 852551562.8880615 bps
+bitrate: 803381470.0886536 bps
+bitrate: 827895019.0814209 bps
+bitrate: 784929796.6338501 bps
+bitrate: 823213016.6782379 bps
+bitrate: 746756227.8565979 bps
+bitrate: 687061739.0686798 bps
+bitrate: 746150576.1727295 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /10
+-bash: /10: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /11
+-bash: /11: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 874211948.2408447 bps
+bitrate: 878052528.3206177 bps
+bitrate: 885664237.7444458 bps
+bitrate: 897173083.213623 bps
+bitrate: 888560549.721817 bps
+bitrate: 870553485.5756836 bps
+bitrate: 841498906.1116333 bps
+bitrate: 840034809.4786377 bps
+bitrate: 855604007.0716553 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 855806955.8420105 bps
+bitrate: 854695532.8082886 bps
+bitrate: 838098744.140625 bps
+bitrate: 849751528.9691162 bps
+bitrate: 844431037.2158203 bps
+bitrate: 816871998.7411194 bps
+bitrate: 863454823.2020874 bps
+bitrate: 827410694.142334 bps
+bitrate: 828335049.2725067 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 869914706.2746277 bps
+bitrate: 869269271.4169922 bps
+bitrate: 801272507.3857727 bps
+bitrate: 839390663.1427002 bps
+bitrate: 869350291.9524078 bps
+bitrate: 883103179.5351562 bps
+bitrate: 881170283.3804626 bps
+bitrate: 881638070.735321 bps
+bitrate: 882693056.3906708 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 850457372.7603607 bps
+bitrate: 789505796.4532471 bps
+bitrate: 828328334.9920807 bps
+bitrate: 845709485.9790344 bps
+bitrate: 842879128.8733978 bps
+bitrate: 870379471.0840759 bps
+bitrate: 867171741.4758911 bps
+bitrate: 863908601.2044525 bps
+bitrate: 867914213.5092773 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 859423377.2906799 bps
+bitrate: 865527398.7084503 bps
+bitrate: 877489216.2802734 bps
+bitrate: 858293933.9502411 bps
+bitrate: 885587151.3789368 bps
+bitrate: 845297729.3531799 bps
+bitrate: 869910143.6721497 bps
+bitrate: 854262062.470459 bps
+bitrate: 885592007.538208 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /16
+-bash: /16: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 905130243.703125 bps
+bitrate: 902078807.8463745 bps
+bitrate: 878985070.8068848 bps
+bitrate: 890254620.8476868 bps
+bitrate: 893740315.271759 bps
+bitrate: 930220581.2502136 bps
+bitrate: 923697694.8894653 bps
+bitrate: 882662753.7620087 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 869328323.3957977 bps
+bitrate: 790152641.4012451 bps
+bitrate: 808752948.1582031 bps
+bitrate: 850770753.2849121 bps
+bitrate: 875009738.3248901 bps
+bitrate: 860592282.0725098 bps
+bitrate: 864912339.0179443 bps
+bitrate: 885767299.5622559 bps
+bitrate: 867417310.7402344 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 856418474.4158936 bps
+bitrate: 875602354.5480194 bps
+bitrate: 864217260.3754578 bps
+bitrate: 893882986.9639893 bps
+bitrate: 891681450.6596375 bps
+bitrate: 881636389.2539978 bps
+bitrate: 895426026.4290161 bps
+bitrate: 894265398.3066101 bps
+bitrate: 880119107.1419678 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 865724445.9195557 bps
+bitrate: 898687526.8190918 bps
+bitrate: 898152604.8394775 bps
+bitrate: 871285133.3618317 bps
+bitrate: 876391402.1779633 bps
+bitrate: 861245791.6307373 bps
+bitrate: 872908082.5418701 bps
+bitrate: 864591152.5144958 bps
+bitrate: 844920188.8742065 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /20
+-bash: /20: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 866825346.1301422 bps
+bitrate: 866348637.3867188 bps
+bitrate: 870906190.0510254 bps
+bitrate: 867567289.6957397 bps
+bitrate: 850665763.6640625 bps
+bitrate: 870401784.303772 bps
+bitrate: 867599671.3233948 bps
+bitrate: 868659685.453949 bps
+bitrate: 837595477.420578 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 876683456.9238281 bps
+bitrate: 875734349.2240906 bps
+bitrate: 883958757.458725 bps
+bitrate: 876037916.7004395 bps
+bitrate: 882997705.1069641 bps
+bitrate: 890850049.118866 bps
+bitrate: 877838772.4269104 bps
+bitrate: 844109699.4539795 bps
+bitrate: 798640974.9412537 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 820533641.3915405 bps
+bitrate: 820084309.4181061 bps
+bitrate: 881845731.9616699 bps
+bitrate: 896510874.6744232 bps
+bitrate: 896324929.236145 bps
+bitrate: 878092722.0305786 bps
+bitrate: 888268789.3132324 bps
+bitrate: 880382057.8219299 bps
+bitrate: 886378532.5715332 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 792466560.5057373 bps
+bitrate: 800503039.522522 bps
+bitrate: 782401219.1116333 bps
+bitrate: 832428671.1402283 bps
+bitrate: 802036971.7025757 bps
+bitrate: 813572722.9646301 bps
+bitrate: 816330196.8929443 bps
+bitrate: 819642588.098877 bps
+bitrate: 834735563.4260559 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 872563858.7608795 bps
+bitrate: 875328557.8608398 bps
+bitrate: 866781568.37677 bps
+bitrate: 877734373.1352539 bps
+bitrate: 861167177.414978 bps
+bitrate: 876731739.2582703 bps
+bitrate: 873826394.3139038 bps
+bitrate: 864575486.8904114 bps
+bitrate: 876911235.1105042 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /25
+-bash: /25: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 868302084.9832764 bps
+bitrate: 860006705.2963257 bps
+bitrate: 864780566.203125 bps
+bitrate: 851929382.3302002 bps
+bitrate: 868604978.3373413 bps
+bitrate: 849732080.9798584 bps
+bitrate: 866017758.6544647 bps
+bitrate: 838931137.4619141 bps
+bitrate: 832089599.5260315 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 785804686.1019287 bps
+bitrate: 805755483.7621765 bps
+bitrate: 830227911.1395264 bps
+bitrate: 856415411.784668 bps
+bitrate: 856823583.0715027 bps
+bitrate: 841871491.0285034 bps
+bitrate: 811030280.9639282 bps
+bitrate: 835034466.9927063 bps
+bitrate: 814256381.4580078 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 891041799.9759979 bps
+bitrate: 903070582.6663971 bps
+bitrate: 887196574.3904114 bps
+bitrate: 890074961.5302429 bps
+bitrate: 888956366.4916534 bps
+bitrate: 921573985.8982086 bps
+bitrate: 902479388.2097168 bps
+bitrate: 913405098.5159912 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 874808098.8684082 bps
+bitrate: 877175855.0805817 bps
+bitrate: 877645482.4649048 bps
+bitrate: 879525006.5885468 bps
+bitrate: 878456882.6667023 bps
+bitrate: 870862381.1406097 bps
+bitrate: 870935744.941864 bps
+bitrate: 869758663.65271 bps
+bitrate: 876953084.7642517 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 879888487.1862946 bps
+bitrate: 879056203.1175842 bps
+bitrate: 861847797.3785706 bps
+bitrate: 876874858.4505615 bps
+bitrate: 877032149.3522644 bps
+bitrate: 880814765.7956085 bps
+bitrate: 880816655.7762451 bps
+bitrate: 873125738.404541 bps
+bitrate: 871567398.7238617 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /30
+-bash: /30: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 708398818.9268646 bps
+bitrate: 840920446.86232 bps
+bitrate: 707606512.34198 bps
+bitrate: 790497166.0756073 bps
+bitrate: 733680049.8099518 bps
+bitrate: 820412861.9242859 bps
+bitrate: 864143131.6812744 bps
+bitrate: 845427472.4333496 bps
+bitrate: 724435919.6209717 bps
+bitrate: 699151019.480896 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 844012229.1859589 bps
+bitrate: 855443481.0823059 bps
+bitrate: 874479891.1970215 bps
+bitrate: 874687992.9614868 bps
+bitrate: 846970831.0239258 bps
+bitrate: 871820370.3616333 bps
+bitrate: 879610822.5613403 bps
+bitrate: 831461040.9527893 bps
+bitrate: 843511974.0532837 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 861959019.2198181 bps
+bitrate: 819360950.2484436 bps
+bitrate: 815026934.2294922 bps
+bitrate: 820028608.4448853 bps
+bitrate: 874214866.1385498 bps
+bitrate: 858106923.7715149 bps
+bitrate: 846173846.3400879 bps
+bitrate: 858403815.2737427 bps
+bitrate: 864087338.454483 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 869123399.2595215 bps
+bitrate: 857467920.9389648 bps
+bitrate: 862858985.2532501 bps
+bitrate: 863817196.7101593 bps
+bitrate: 838149433.9030151 bps
+bitrate: 875282489.7681885 bps
+bitrate: 874433178.6405945 bps
+bitrate: 859885391.5544586 bps
+bitrate: 869054815.8166351 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 825824915.5648956 bps
+bitrate: 844082733.1889648 bps
+bitrate: 827335948.3950806 bps
+bitrate: 829688876.9296875 bps
+bitrate: 839658568.8852539 bps
+bitrate: 815881020.7983856 bps
+bitrate: 818604222.7437744 bps
+bitrate: 845461705.4075317 bps
+bitrate: 842824672.995575 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 867640736.0881348 bps
+bitrate: 898180442.3153687 bps
+bitrate: 859983874.6761475 bps
+bitrate: 803784861.0483398 bps
+bitrate: 782200511.1352386 bps
+bitrate: 778478783.9840698 bps
+bitrate: 727310659.076477 bps
+bitrate: 826353436.6764679 bps
+bitrate: 841466807.4885864 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 813128754.4670563 bps
+bitrate: 832719350.7771606 bps
+bitrate: 854060544.8948364 bps
+bitrate: 867841705.3559875 bps
+bitrate: 836362857.062439 bps
+bitrate: 893227584.7246399 bps
+bitrate: 865860352.1938477 bps
+bitrate: 872232332.7550964 bps
+bitrate: 868290699.0819397 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /36 - 31m4 - 34m1 - 36m1
+-bash: /36: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 861818209.551178 bps
+bitrate: 866337690.3376465 bps
+bitrate: 843629648.9927673 bps
+bitrate: 848783460.0230713 bps
+bitrate: 863780951.3905792 bps
+bitrate: 792168013.7465515 bps
+bitrate: 815987652.298645 bps
+bitrate: 820196097.7680817 bps
+bitrate: 828136055.0895996 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 835043624.9781189 bps
+bitrate: 832666579.7055359 bps
+bitrate: 869589399.189743 bps
+bitrate: 869652594.774353 bps
+bitrate: 853039986.5705566 bps
+bitrate: 875778527.5078125 bps
+bitrate: 816274842.4091492 bps
+bitrate: 777419903.151947 bps
+bitrate: 731850506.5010834 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 808933560.1693726 bps
+bitrate: 777461792.2671204 bps
+bitrate: 862560619.5514526 bps
+bitrate: 878617154.9040985 bps
+bitrate: 873956093.7180176 bps
+bitrate: 873117620.3244781 bps
+bitrate: 874191939.7994385 bps
+bitrate: 870288681.4262695 bps
+bitrate: 857283756.9624023 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 853685195.4615784 bps
+bitrate: 868797263.9061584 bps
+bitrate: 853606694.4944916 bps
+bitrate: 880929120.4650879 bps
+bitrate: 872744532.414917 bps
+bitrate: 883969294.8145294 bps
+bitrate: 870804589.2425537 bps
+bitrate: 887225974.5574951 bps
+bitrate: 870755099.9473114 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 864865009.5957642 bps
+bitrate: 857478959.8981934 bps
+bitrate: 867357625.3025208 bps
+bitrate: 852495233.5134888 bps
+bitrate: 874785782.76091 bps
+bitrate: 869672869.7677002 bps
+bitrate: 879384412.5840912 bps
+bitrate: 869390483.3989563 bps
+bitrate: 895127250.8154144 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /41 - 37m3 - 38m1 - 39m2
+-bash: /41: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 843808970.1719971 bps
+bitrate: 878629094.5297852 bps
+bitrate: 893766369.3659363 bps
+bitrate: 884150119.1337891 bps
+bitrate: 845593660.7782745 bps
+bitrate: 888172993.6738586 bps
+bitrate: 885174000.7251434 bps
+bitrate: 882614112.7313232 bps
+bitrate: 896542936.3023834 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /42m1
+-bash: /42m1: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 876019119.4500732 bps
+bitrate: 877798172.1456299 bps
+bitrate: 857960838.3537598 bps
+bitrate: 817365309.5526123 bps
+bitrate: 878221579.414032 bps
+bitrate: 885998999.883728 bps
+bitrate: 884138525.4667969 bps
+bitrate: 873083482.7570343 bps
+bitrate: 895279709.6748962 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /43m1
+-bash: /43m1: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ fg
+-bash: fg: current: no such job
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 784392147.9446411 bps
+bitrate: 795034646.6107635 bps
+bitrate: 807555906.84906 bps
+bitrate: 847407328.5900879 bps
+bitrate: 832490571.9280243 bps
+bitrate: 802964497.3428955 bps
+bitrate: 858950922.9666138 bps
+bitrate: 858611885.6626282 bps
+bitrate: 853287474.9120941 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /44 sleep(5m)
+-bash: syntax error near unexpected token `('
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 860771260.7271881 bps
+bitrate: 867363208.4230499 bps
+bitrate: 873752170.4315186 bps
+bitrate: 866682618.1647949 bps
+bitrate: 888676880.5220947 bps
+bitrate: 868002450.0378113 bps
+bitrate: 866439725.0344849 bps
+bitrate: 856987525.9083252 bps
+bitrate: 874140847.0559692 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 830906538.72258 bps
+bitrate: 820570944.7549896 bps
+bitrate: 824263952.0740356 bps
+bitrate: 857527876.5969086 bps
+bitrate: 841230182.8557129 bps
+bitrate: 828489601.3982849 bps
+bitrate: 851925726.2790527 bps
+bitrate: 821387558.9069366 bps
+bitrate: 830532516.9758606 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 854897865.0094757 bps
+bitrate: 882337694.8095703 bps
+bitrate: 887087107.380661 bps
+bitrate: 887725036.4971619 bps
+bitrate: 882500875.2666321 bps
+bitrate: 891316022.5125275 bps
+bitrate: 887158713.7435913 bps
+bitrate: 887492214.6938324 bps
+bitrate: 888073217.9875488 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 814952910.7449646 bps
+bitrate: 870513122.047348 bps
+bitrate: 862501725.1529846 bps
+bitrate: 794502593.9669495 bps
+bitrate: 865093086.0845947 bps
+bitrate: 883028653.5574493 bps
+bitrate: 882568662.1600342 bps
+bitrate: 882594543.7353516 bps
+bitrate: 874314755.619873 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 809637561.6833496 bps
+bitrate: 778208170.1075134 bps
+bitrate: 795188152.0097351 bps
+bitrate: 881128268.2010193 bps
+bitrate: 885194102.6220703 bps
+bitrate: 884969554.5591431 bps
+bitrate: 878079324.1272583 bps
+bitrate: 884739377.9513397 bps
+bitrate: 874169398.6306915 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 865640808.7388306 bps
+bitrate: 824951348.1638489 bps
+bitrate: 814085058.9287109 bps
+bitrate: 833792480.0717926 bps
+bitrate: 809987133.486557 bps
+bitrate: 871268931.2933807 bps
+bitrate: 869624605.4156799 bps
+bitrate: 873442083.2345581 bps
+bitrate: 856663628.5859985 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /50
+-bash: /50: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 871136320.8286285 bps
+bitrate: 868509478.1435394 bps
+bitrate: 879872728.4188843 bps
+bitrate: 848375717.4733887 bps
+bitrate: 875874696.6726837 bps
+bitrate: 868828561.3124084 bps
+bitrate: 861815538.4278717 bps
+bitrate: 837277295.0586548 bps
+bitrate: 863436489.0927429 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /51m3
+-bash: /51m3: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 829793519.9206238 bps
+bitrate: 757384610.3371582 bps
+bitrate: 820437847.4380188 bps
+bitrate: 840344740.3596497 bps
+bitrate: 868472991.0446777 bps
+bitrate: 876002307.524643 bps
+bitrate: 878792839.8409424 bps
+bitrate: 846325373.1575317 bps
+bitrate: 848203511.2454224 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 852209152.2253418 bps
+bitrate: 824204568.4974976 bps
+bitrate: 753900324.4736938 bps
+bitrate: 708601332.2322693 bps
+bitrate: 695925945.811203 bps
+bitrate: 710807074.6750488 bps
+bitrate: 696387088.0836182 bps
+bitrate: 702196742.6250458 bps
+bitrate: 706903289.6292114 bps
+bitrate: 742925131.0224152 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 865313847.9111328 bps
+bitrate: 866021062.1752167 bps
+bitrate: 870998311.7973175 bps
+bitrate: 838379437.5080566 bps
+bitrate: 816969160.1391907 bps
+bitrate: 865493351.7555542 bps
+bitrate: 851859847.7701721 bps
+bitrate: 852978977.4580078 bps
+bitrate: 856765255.587616 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ python3 client.py
+bitrate: 864277379.0771484 bps
+bitrate: 848899122.679596 bps
+bitrate: 852635738.8546143 bps
+bitrate: 853866561.6261749 bps
+bitrate: 824556137.3017273 bps
+bitrate: 859985381.7654419 bps
+bitrate: 827193758.2009277 bps
+bitrate: 801687713.9205322 bps
+bitrate: 826788300.7924805 bps
+File 'file_send' sent successfully.
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$ /55
+-bash: /55: No such file or directory
+psoodu@DESKTOP-CU85BE2:~/reliableUDP$
+
