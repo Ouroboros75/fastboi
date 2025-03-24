@@ -4,10 +4,12 @@ import os
 import time
 
 SERVER_IP = "192.168.1.11"  # Change this to receiver's IP if remote
-SERVER_PORT  = 12345
-PACKET_SIZE = 1452    # Bytes per packet
-#PACKET_SIZE = 8184    # Bytes per packet
-#FILE_CHUNK_SIZE = 81840
+SERVER_PORT = 12345
+#PACKET_SIZE = 65535  # Bytes per packet
+PACKET_SIZE = 8184  # Bytes per packet
+FILE_CHUNK_SIZE = 81840
+#PACKET_SIZE = 8192  # Bytes per packet
+#FILE_CHUNK_SIZE = 81920
 SEND_BUFFER_SIZE = 32 * 1024 * 1024
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -24,15 +26,9 @@ def send_file(filename):
         for seq_num in range(total_packets):
             chunk = f.read(PACKET_SIZE)
             packet = struct.pack("!II", seq_num, total_packets) + chunk
-            prob = sock.sendto(packet, (SERVER_IP, SERVER_PORT))
-            #if no free space in send buffer -> \
-            #program terminates actually
-            if(prob!=1460):
-                print(prob)
-            #for i in range(1000):
-            #    pass
+            sock.sendto(packet, (SERVER_IP, SERVER_PORT))
+            #time.sleep(0.001)
 
     print(f"File '{filename}' sent successfully.")
 
-while(True):
-    send_file("file_send")  # Replace with the file you want to send
+send_file("file_send")  # Replace with the file you want to send
